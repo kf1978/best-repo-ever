@@ -1,2 +1,3 @@
 # best-repo-ever
-Test addition of changesMergeConflict
+Test addition of changesConflict2
+
